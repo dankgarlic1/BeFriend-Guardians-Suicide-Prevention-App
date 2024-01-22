@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488948946125",
+    "project_id": "be-friends-ed3c1",
+    "storage_bucket": "be-friends-ed3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488948946125:android:a4449ff1f40ec712978584",
+        "android_client_info": {
+          "package_name": "com.example.guardians_suicide_prevention_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFWn5Eb84QSIjHq0Xq5QbMxaXRpGKeTPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
