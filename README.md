@@ -1,8 +1,6 @@
 # BE Friends
 # Status - Completed
-# Apk Size - 
-
-#Note: This app is a concept app and was made in 12 hours
+# Note: This app is a concept app and was made in 12 hours
 
 //Install Example App
 Go to folder and install >> Release Apk >> BE Friends.apk
