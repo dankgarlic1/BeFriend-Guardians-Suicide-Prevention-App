@@ -1,26 +1,14 @@
-# BE Friends
-# Status - Completed
-# Note: This app is a concept app and was made in 12 hours
+# BE Friend - Concept App
 
-//Install Example App
-Go to folder and install >> Release Apk >> BE Friends.apk
+## Overview:
+BE Friend is a concept app created in just 12 hours to explore the potential of a unique solution for assisting people in managing there Mental Health
+## Status:
+Completed
 
-// Run App
-Step 0 - Open Terminal in VS Code
+## APK Size:
+26 MB
 
-Step 1 - Take 'git clone' 
+## Download:
+To experience BE Friend, download the APK using the following link: [BE Friend APK](https://drive.google.com/file/d/1W22uL31rwN501QgqKwe2FD_PHLBTLGii/view?usp=sharing)
 
-Step 2 - Run 'flutter pub get'
-
-Step 3 - Press 'F5'
-
-Step 4 - App build will starting - Run the app now
-
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore the app and share your feedback!
